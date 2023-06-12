@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rajnish Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style={border-radius ='5' }
+     alt="coding"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnishtiwari96766&label=Profile%20views&color=0e75b6&style=flat" alt="rajnishtiwari96766" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnishtiwari96766" alt="rajnishtiwari96766" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnishtiwari96766&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="rajnishtiwari96766" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@tiwari33rajnish" target="blank"><img src="https://img.shields.io/twitter/follow/@tiwari33rajnish?logo=twitter&style=for-the-badge" alt="@tiwari33rajnish" /></a> </p>
 
