@@ -7,17 +7,15 @@
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 110px" alt="coding"/>
 <p align="left"> <a href="https://twitter.com/@tiwari33rajnish" target="blank"><img src="https://img.shields.io/twitter/follow/@tiwari33rajnish?logo=twitter&style=for-the-badge" alt="tiwari33rajnish" /></a> </p>
 
-- 🔭 I’m currently working on **m1_portfolio**
+- 🔭 Currently working on: **Food delivery applicaction**
 
-- 🌱 I’m currently learning **Java,ReactJs,NodeJs,Firebase**
+- 🌱 Currently learning: **Java,ReactJs,NodeJs,Firebase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rajnishtiwari96766](https://github.com/rajnishtiwari96766)
+- 💬 My Proficiencies: **ReactJs,Data Structures And Algorithm,Database**
 
-- 💬 Ask me about **ReactJs,Data Structures And Algorithm,Database**
+- 📫 Contact me on: **rajnishtiwari96766@gmail.com**
 
-- 📫 How to reach me **rajnishtiwari96766@gmail.com**
-
-- 📄 Know about my experiences [https://www.canva.com/design/DAFeqgvtLek/xMAxVfocwa21Kg7EyFj99Q/edit?utm_content=DAFeqgvtLek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFeqgvtLek/xMAxVfocwa21Kg7EyFj99Q/edit?utm_content=DAFeqgvtLek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Experiences: [https://www.canva.com/design/DAFeqgvtLek/xMAxVfocwa21Kg7EyFj99Q/edit?utm_content=DAFeqgvtLek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFeqgvtLek/xMAxVfocwa21Kg7EyFj99Q/edit?utm_content=DAFeqgvtLek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
