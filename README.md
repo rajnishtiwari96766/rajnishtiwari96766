@@ -7,13 +7,13 @@
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 110px" alt="coding"/>
 <p align="left"> <a href="https://twitter.com/@tiwari33rajnish" target="blank"><img src="https://img.shields.io/twitter/follow/@tiwari33rajnish?logo=twitter&style=for-the-badge" alt="tiwari33rajnish" /></a> </p>
 
-- 🔭 Currently working on: **MERN Projects**
+-🔭 Currently Working On: MERN Stack Projects (MongoDB, Express.js, React, Node.js)
 
-- 🌱 Currently learning: **Java,ReactJs,NodeJs,Firebase**
+🌱 Currently Learning: Java, React.js, React with TypeScript, Angular, Node.js
 
-- 💬 My Proficiencies: **ReactJs,Data Structures And Algorithm,Database**
+💬 Proficiencies: React.js, Angular, TypeScript, Data Structures & Algorithms, Databases (MySQL & NoSQL)
 
-- 📫 Contact me on: **rajnishtiwari96766@gmail.com**
+📫 Contact: rajnishtiwari96766@gmail.com
 
 - 📄 Experiences: [https://www.canva.com/design/DAFeqgvtLek/xMAxVfocwa21Kg7EyFj99Q/edit?utm_content=DAFeqgvtLek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFeqgvtLek/xMAxVfocwa21Kg7EyFj99Q/edit?utm_content=DAFeqgvtLek&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
